@@ -1,0 +1,29 @@
+===== tests --filter Category=Starter 
+Test run for /src/tests/MobilityTicketing.Lecture07.Tests/bin/Release/net8.0/MobilityTicketing.Lecture07.Tests.dll (.NETCoreApp,Version=v8.0)
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Results File: /evidence/tests/_2b8f066d634f_2026-10-22_19_38_31.trx
+
+Passed!  - Failed:     0, Passed:     9, Skipped:     0, Total:     9, Duration: 1 s - MobilityTicketing.Lecture07.Tests.dll (net8.0)
+ 
+===== tests --filter Category=Acceptance 
+Test run for /src/tests/MobilityTicketing.Lecture07.Tests/bin/Release/net8.0/MobilityTicketing.Lecture07.Tests.dll (.NETCoreApp,Version=v8.0)
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Results File: /evidence/tests/_a691bfa3ea72_2026-10-22_19_38_44.trx
+
+Passed!  - Failed:     0, Passed:    38, Skipped:     0, Total:    38, Duration: 10 s - MobilityTicketing.Lecture07.Tests.dll (net8.0)
+ 
+===== tests --filter Category=Student 
+Test run for /src/tests/MobilityTicketing.Lecture07.Tests/bin/Release/net8.0/MobilityTicketing.Lecture07.Tests.dll (.NETCoreApp,Version=v8.0)
+VSTest version 17.11.1 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Results File: /evidence/tests/_c557a8d4e00e_2026-10-22_19_38_53.trx
+
+Passed!  - Failed:     0, Passed:     4, Skipped:     0, Total:     4, Duration: 1 s - MobilityTicketing.Lecture07.Tests.dll (net8.0)
